@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/WHZ950123/book#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
+    "gitbook-cli": "^2.3.2"
   }
 }
